@@ -1,4 +1,4 @@
-## 👋
+## 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 #### FrontEnd Developer con enfoque en la plataforma Shopify.
 
 Cuento con experiencia previa en VTEX IO, donde participé en el desarrollo de nuevas funcionalidades, configuración y soporte continuo de tiendas, lo que me permitió adquirir una visión integral del ecosistema ecommerce.
@@ -6,7 +6,6 @@ Cuento con experiencia previa en VTEX IO, donde participé en el desarrollo de n
 #### Tecnologias: Liquid, JavaScript, React, Sass/CSS, Git y GitHub.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)
-
 
 <!--
 **lauracamilanuv/lauracamilanuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
