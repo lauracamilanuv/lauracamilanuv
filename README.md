@@ -7,6 +7,9 @@ Cuento con experiencia previa en VTEX IO, donde participé en el desarrollo de n
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)
 
+Tambien soy estudiante de Platzi, actualmente estoy haciendo el curso Responsive Design: Mobile First
+Adicional tambien estudio Ingles con Duolingo (: 
+
 <!--
 **lauracamilanuv/lauracamilanuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
